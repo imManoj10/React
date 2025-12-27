@@ -1,3 +1,4 @@
 [submodule "shared/ui-components"]
 	path = shared/ui-components
 	url = https://github.com/elbrit-dev/React.git
+	branch = main
